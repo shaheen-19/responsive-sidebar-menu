@@ -29,8 +29,9 @@ This project features a responsive sidebar that slides in and out using the CSS 
 ```
 Responsive-Sidebar-Menu/
 │── index.html
-│── style.css
 │── photo.jpg
+│── script.js
+|__style.css
 │── README.md
 ```
 
